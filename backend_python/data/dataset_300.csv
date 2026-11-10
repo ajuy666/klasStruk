@@ -1,0 +1,759 @@
+text,category,harga,qty
+mie sedaap goreng,makanan,3100,48
+mie sedaap soto,makanan,2800,38
+sarimi isi dua,makanan,3200,24
+pop mie ayam,makanan,2900,17
+pop mie baso,makanan,3100,30
+pop mie pedas dower ayam,makanan,3400,48
+mie indomie,makanan,2700,28
+kanzler singles keju,makanan,7000,32
+kanzler singles hot,makanan,11000,20
+kanzler bakso ori,makanan,11000,20
+nutrijell strawberry,makanan,8000,33
+nestle pure life,minuman,6000,45
+ultra milk kacang hijau,minuman,5000,49
+mie cup,makanan,3200,33
+kentang beku,makanan,8000,12
+nugget ayam frozen,makanan,3000,31
+nugget tempura,makanan,6000,11
+chicken karaage frozen,makanan,5000,33
+sosis sapi frozen,makanan,2000,39
+sosis ayam frozen,makanan,8000,47
+bakso ikan frozen,makanan,12000,11
+bakso sapi frozen,makanan,14000,30
+otak otak frozen,makanan,6000,42
+tempura ikan,makanan,2000,21
+fish stick,makanan,12000,31
+dimsum frozen,makanan,5000,34
+siomay frozen,makanan,1000,36
+burger patty,makanan,12000,37
+chicken patty,makanan,10000,25
+crab stick,makanan,6000,24
+seafood stick,makanan,13000,12
+abon sapi kemasan,makanan,12000,46
+abon ayam kemasan,makanan,9000,16
+kornet sapi kaleng,makanan,1000,30
+sarden saus tomat,makanan,11000,18
+tuna kaleng,makanan,11000,48
+luncheon meat,makanan,10000,27
+sup krim instan,makanan,12000,13
+jelly cup,makanan,12000,34
+puding cup,makanan,14000,23
+nata de coco cup,makanan,14000,18
+buah kaleng,makanan,14000,35
+jagung kaleng,makanan,3000,11
+selai coklat,makanan,12000,29
+selai kacang,makanan,7000,37
+selai stroberi,makanan,4000,16
+keju slice,makanan,9000,17
+keju cheddar,makanan,3000,44
+biskuit susu,makanan,9000,23
+kerupuk bawang,makanan,3000,26
+mie lidi,makanan,3100,45
+kerupuk ikan,makanan,5000,49
+permen jelly,makanan,1300,13
+kerupuk putih,makanan,7000,11
+makaroni pedas,makanan,2000,15
+kuaci,makanan,4000,13
+kacang kulit,makanan,9000,38
+kacang telur,makanan,12000,27
+permen coklat,makanan,1800,35
+permen mint,makanan,2200,43
+snack pilus,makanan,1300,19
+qtela tempe,makanan,10000,45
+chiki balls,makanan,5000,23
+wafer coklat,makanan,2000,40
+wafer vanilla,makanan,4000,24
+snack taro,makanan,16000,17
+biskuit kelapa,makanan,19000,23
+kacang atom,makanan,12000,32
+bakso,makanan,7000,49
+bakso sapi,makanan,12000,30
+indomie goreng,makanan,3200,25
+indomie rebus,makanan,2700,27
+indomie ayam bawang,makanan,2500,33
+indomie soto,makanan,2800,35
+indomie kari ayam,makanan,2600,34
+roti tawar,makanan,12000,50
+roti keju,makanan,8000,38
+roti coklat,makanan,6000,24
+nugget,makanan,14000,10
+sosis,makanan,6000,34
+seblak,makanan,6000,16
+cilok,makanan,10000,18
+basreng,makanan,4000,33
+otak otak,makanan,6000,10
+kerupuk,makanan,13000,17
+keripik singkong,makanan,2000,33
+keripik kentang,makanan,10000,20
+snack,makanan,1600,26
+biskuit,makanan,6000,17
+wafer,makanan,10000,44
+coklat,makanan,14000,44
+donat,makanan,4000,42
+brownies,makanan,14000,14
+kue lapis,makanan,8000,48
+kue bolu,makanan,14000,50
+risoles,makanan,7000,37
+pastel,makanan,12000,16
+lumpia,makanan,9000,18
+nugget ayam,makanan,14000,17
+sosis ayam,makanan,8000,21
+sosis sapi,makanan,5000,43
+bakwan,makanan,13000,42
+cireng,makanan,2000,32
+combro,makanan,5000,33
+misro,makanan,8000,46
+keripik pisang,makanan,10000,44
+keripik tempe,makanan,9000,49
+kerupuk udang,makanan,12000,31
+roti sobek,makanan,16000,36
+roti manis,makanan,16000,44
+chitato,makanan,17000,10
+lays,makanan,9000,44
+qtela,makanan,13000,46
+oreo,makanan,13000,23
+mie goreng,makanan,2500,12
+mie rebus,makanan,3300,10
+chicken nugget,makanan,7000,14
+sereal jagung,makanan,9000,35
+corn flakes,makanan,8000,23
+koko krunch,makanan,1000,48
+choco crunch,makanan,12000,36
+honey stars,makanan,8000,18
+granola,makanan,8000,24
+muesli,makanan,11000,24
+oatmeal instan,makanan,3000,35
+oatmeal sachet,makanan,1000,22
+biskuit marie,makanan,12000,41
+marie regal,makanan,3000,48
+roma kelapa,makanan,7000,41
+roma malkist,makanan,5000,13
+malkist crackers,makanan,11000,39
+crackers asin,makanan,5000,46
+gabin susu,makanan,10000,32
+gabin tape,makanan,7000,48
+khong guan,makanan,10000,24
+monde biscuit,makanan,9000,38
+good time cookies,makanan,12000,45
+chocochips cookies,makanan,7000,22
+butter cookies,makanan,9000,41
+wafer nabati,makanan,8000,16
+nabati keju,makanan,12000,31
+nabati coklat,makanan,2000,37
+tango wafer,makanan,1000,11
+richeese wafer,makanan,7000,15
+astor wafer stick,makanan,7000,37
+pocky coklat,makanan,14000,37
+pocky stroberi,makanan,8000,29
+slai olai nanas,makanan,5000,39
+slai olai stroberi,makanan,3000,20
+better sandwich biscuit,makanan,12000,37
+oreo vanilla,makanan,8000,34
+oreo chocolate,makanan,6000,48
+oreo mini,makanan,11000,42
+chitato sapi panggang,makanan,7000,10
+chitato ayam bumbu,makanan,5000,36
+lays classic,makanan,3000,22
+lays nori,makanan,5000,50
+qtela singkong,makanan,14000,12
+taro net,makanan,7000,48
+pilus garuda,makanan,1000,15
+pilus pedas,makanan,5000,17
+chiki twist,makanan,10000,36
+cheetos,makanan,7000,18
+momogi jagung,makanan,14000,46
+momogi coklat,makanan,7000,42
+twistko,makanan,11000,33
+tictac snack,makanan,1300,24
+jet z,makanan,10000,41
+potato chips,makanan,10000,41
+tortilla chips,makanan,12000,33
+popcorn caramel,makanan,13000,50
+popcorn asin,makanan,3000,21
+keripik talas,makanan,7000,48
+keripik ubi,makanan,1000,11
+keripik kentang balado,makanan,4000,12
+keripik singkong balado,makanan,13000,46
+opak singkong,makanan,4000,26
+emping melinjo,makanan,14000,11
+rengginang,makanan,5000,11
+kerupuk kulit,makanan,7000,37
+kerupuk seblak,makanan,7000,32
+makaroni bantet,makanan,13000,46
+kacang garuda,makanan,11000,41
+kacang dua kelinci,makanan,13000,42
+kacang sukro,makanan,4000,10
+kacang mete,makanan,13000,28
+kacang almond,makanan,7000,11
+trail mix,makanan,11000,35
+kopiko candy,makanan,3000,41
+relaxa,makanan,6000,15
+kiss mint,makanan,12000,41
+foxs candy,makanan,2000,13
+sugus,makanan,10000,20
+yupi,makanan,13000,26
+jelly gum,makanan,14000,47
+gummy bear,makanan,9000,33
+aqua 600 ml,minuman,6000,14
+le minerale 600 ml,minuman,1500,43
+teh botol sosro 450 ml,minuman,6000,15
+teh pucuk 350 ml,minuman,6000,31
+fruit tea botol,minuman,6000,20
+floridina botol,minuman,6000,25
+buavita jeruk,minuman,5000,42
+ultra milk stroberi,minuman,7000,18
+indomilk coklat,minuman,7000,15
+dancow coklat,minuman,4000,25
+milo uht,minuman,3000,38
+susu kedelai kemasan,minuman,9000,12
+cimory yogurt drink,minuman,5000,29
+coca cola botol,minuman,3000,45
+sprite botol,minuman,9000,28
+fanta jeruk,minuman,7000,35
+pocari sweat kaleng,minuman,1000,12
+mizone lychee lemon,minuman,2000,28
+larutan penyegar kaleng,minuman,1800,29
+kratingdaeng kaleng,minuman,2000,41
+extra joss sachet,minuman,7000,16
+good day botol,minuman,3000,50
+nescafe ready to drink,minuman,5000,42
+kopiko 78 botol,minuman,7000,49
+energen coklat sachet,minuman,1800,48
+chocolatos matcha drink,minuman,4000,27
+nutrisari jeruk peras,minuman,7000,49
+marimas jeruk,minuman,4000,10
+pop ice taro,minuman,2000,20
+ale ale rasa jeruk,minuman,2300,37
+sirup marjan cocopandan,minuman,19000,34
+susu steril kaleng,minuman,1000,32
+air kelapa kemasan,minuman,4000,40
+ale ale jeruk,minuman,1900,39
+pop ice coklat,minuman,5000,44
+marimas anggur,minuman,4000,16
+ale ale anggur,minuman,1500,25
+nutrisari sirsak,minuman,2000,35
+air kelapa botol,minuman,6000,11
+frestea,minuman,2000,10
+marimas mangga,minuman,7000,21
+abc sari kacang hijau,minuman,2000,14
+vita jelly drink,minuman,3000,46
+okky jelly drink,minuman,1300,41
+nutrisari blewah,minuman,5000,18
+pop ice vanilla blue,minuman,7000,50
+frestea apel,minuman,3000,44
+nutrisari kelapa muda,minuman,4000,28
+teh,minuman,2000,25
+teh manis,minuman,6000,12
+teh tawar,minuman,2000,29
+teh botol,minuman,3000,33
+teh pucuk,minuman,5000,42
+teh kotak,minuman,2000,33
+teh tarik,minuman,3000,20
+teh susu,minuman,4000,17
+kopi,minuman,5000,45
+kopi hitam,minuman,7000,47
+kopi susu,minuman,9000,49
+kopi sachet,minuman,1400,29
+good day,minuman,2000,44
+nescafe,minuman,2000,34
+torabika,minuman,4000,44
+kopiko 78,minuman,7000,34
+aqua,minuman,3000,38
+air mineral,minuman,6000,27
+le minerale,minuman,2100,27
+club,minuman,3000,11
+vit,minuman,7000,44
+ades,minuman,5000,25
+susu,minuman,9000,50
+susu putih,minuman,5000,45
+susu coklat,minuman,5000,42
+susu stroberi,minuman,3000,13
+ultra milk,minuman,7000,42
+indomilk,minuman,6000,23
+milo,minuman,5000,30
+dancow,minuman,3000,29
+yakult,minuman,7000,17
+coca cola,minuman,7000,16
+fanta,minuman,4000,12
+sprite,minuman,2000,26
+pepsi,minuman,2000,42
+big cola,minuman,5000,21
+tebs,minuman,4000,31
+pocari sweat,minuman,7000,31
+isoplus,minuman,6000,39
+you c1000,minuman,4000,47
+kratingdaeng,minuman,5000,47
+extrajoss,minuman,5000,17
+energen,minuman,2000,36
+air mineral botol,minuman,6000,36
+air mineral gelas,minuman,1200,43
+air putih,minuman,3000,30
+aqua 600,minuman,4000,39
+aqua 1500,minuman,4000,42
+aqua galon,minuman,18000,37
+le minerale 600,minuman,1600,42
+cleo,minuman,5000,14
+club mineral,minuman,2000,28
+ades botol,minuman,3000,13
+pristine,minuman,3000,44
+teh pucuk harum,minuman,3000,26
+teh gelas,minuman,2000,37
+teh javana,minuman,5000,39
+teh sosro kotak,minuman,2000,38
+fruit tea,minuman,2000,15
+nu green tea,minuman,3000,44
+ichitan,minuman,7000,50
+teh botol sosro,minuman,4000,46
+kopi kapal api,minuman,4000,33
+kapal api sachet,minuman,5000,38
+abc kopi susu,minuman,4000,40
+torabika cappuccino,minuman,2000,44
+luwak white koffie,minuman,5000,42
+good day freeze,minuman,5000,30
+nescafe kaleng,minuman,1000,41
+kopiko lucky day,minuman,3000,32
+ultra milk coklat,minuman,2000,42
+ultra milk full cream,minuman,7000,12
+indomilk kotak,minuman,5000,27
+frisian flag cair,minuman,6000,34
+susu uht,minuman,7000,40
+susu kotak,minuman,5000,12
+milo kotak,minuman,2000,49
+bear brand,minuman,2000,33
+yakult pack,minuman,4000,41
+pocari botol,minuman,5000,31
+mizone,minuman,4000,32
+isoplus botol,minuman,6000,11
+floridina,minuman,8000,36
+pulpy orange,minuman,2000,11
+minute maid,minuman,5000,35
+buavita jambu,minuman,4000,26
+buavita mangga,minuman,2000,49
+ale ale,minuman,1700,42
+teh rio,minuman,5000,18
+marimas,minuman,7000,48
+nutrisari jeruk,minuman,5000,38
+nutrisari mangga,minuman,7000,35
+sirup marjan,minuman,17000,44
+sirup abc,minuman,23000,34
+sirup cocopandan,minuman,17000,33
+coca cola kaleng,minuman,1800,22
+sprite kaleng,minuman,2200,16
+fanta strawberry,minuman,3000,45
+big cola botol,minuman,8000,29
+kratingdaeng botol,minuman,4000,10
+extra joss,minuman,3000,17
+hemaviton,minuman,7000,25
+larutan cap kaki tiga,minuman,4000,23
+larutan penyegar,minuman,6000,21
+cincau,minuman,2000,32
+susu kedelai,minuman,6000,24
+kacang hijau botol,minuman,3000,37
+teh tawar botol,minuman,6000,43
+teh manis botol,minuman,3000,11
+teh lemon,minuman,7000,41
+lemon tea,minuman,6000,32
+lychee tea,minuman,5000,31
+milk tea,minuman,4000,34
+teh tarik botol,minuman,3000,31
+teh kotak melati,minuman,2000,31
+teh kotak apel,minuman,5000,15
+teh gelas cup,minuman,2000,24
+teh pucuk botol,minuman,5000,46
+teh javana botol,minuman,8000,42
+fruit tea apel,minuman,7000,17
+fruit tea blackcurrant,minuman,7000,14
+kopi aren,minuman,7000,48
+kopi gula aren,minuman,7000,13
+kopi botol,minuman,8000,15
+kopi kaleng,minuman,2200,41
+abc kopi hitam,minuman,4000,39
+kapal api mix,minuman,7000,44
+white koffie sachet,minuman,4000,49
+good day cappuccino,minuman,4000,25
+good day mocacinno,minuman,3000,22
+nescafe classic,minuman,6000,39
+nescafe latte,minuman,7000,28
+milo sachet,minuman,2000,26
+milo kaleng,minuman,2100,28
+ovaltine,minuman,2000,37
+chocolatos drink,minuman,6000,35
+beng beng drink,minuman,5000,46
+susu vanilla,minuman,7000,35
+susu full cream,minuman,5000,32
+timun,bahan_pokok,8000,18
+kacang merah,bahan_pokok,7000,21
+kacang tanah,bahan_pokok,21000,10
+ubi jalar,bahan_pokok,21000,10
+kemiri,bahan_pokok,16000,43
+singkong,bahan_pokok,18000,41
+minyak goreng botol,bahan_pokok,67000,34
+terong,bahan_pokok,10000,49
+daun bawang,bahan_pokok,7000,10
+kacang hijau,bahan_pokok,13000,25
+minyak goreng pouch,bahan_pokok,51000,48
+seledri,bahan_pokok,28000,14
+labu siam,bahan_pokok,21000,31
+minyak kita,bahan_pokok,60000,38
+daun jeruk,bahan_pokok,25000,12
+toge,bahan_pokok,7000,21
+jagung manis,bahan_pokok,5000,35
+asam jawa,bahan_pokok,24000,25
+beras,bahan_pokok,35000,46
+beras ramos,bahan_pokok,46000,31
+beras pandan wangi,bahan_pokok,37000,38
+beras premium,bahan_pokok,47000,23
+beras medium,bahan_pokok,17000,37
+gula,bahan_pokok,32000,14
+gula pasir,bahan_pokok,39000,39
+gula merah,bahan_pokok,56000,14
+gula aren,bahan_pokok,45000,21
+garam,bahan_pokok,8000,25
+garam halus,bahan_pokok,12000,35
+garam kasar,bahan_pokok,5000,35
+minyak goreng,bahan_pokok,54000,30
+minyak bimoli,bahan_pokok,60000,48
+minyak filma,bahan_pokok,38000,45
+minyak tropical,bahan_pokok,64000,42
+minyak fortune,bahan_pokok,46000,39
+telur,bahan_pokok,61000,46
+telur ayam,bahan_pokok,36000,32
+telur bebek,bahan_pokok,37000,19
+tepung,bahan_pokok,6000,14
+tepung terigu,bahan_pokok,41000,45
+tepung beras,bahan_pokok,56000,43
+tepung tapioka,bahan_pokok,6000,40
+tepung maizena,bahan_pokok,21000,19
+bawang merah,bahan_pokok,12000,28
+bawang putih,bahan_pokok,5000,41
+cabai,bahan_pokok,13000,10
+cabai merah,bahan_pokok,15000,14
+cabai rawit,bahan_pokok,26000,13
+merica,bahan_pokok,20000,25
+lada,bahan_pokok,11000,33
+ketumbar,bahan_pokok,14000,25
+kunyit,bahan_pokok,27000,11
+jahe,bahan_pokok,7000,37
+lengkuas,bahan_pokok,22000,41
+daun salam,bahan_pokok,29000,36
+serai,bahan_pokok,28000,29
+kecap,bahan_pokok,14000,33
+kecap manis,bahan_pokok,12000,21
+kecap asin,bahan_pokok,9000,44
+saus sambal,bahan_pokok,11000,42
+saus tomat,bahan_pokok,6000,42
+mayones,bahan_pokok,17000,46
+mie instan,bahan_pokok,24000,21
+indomie,bahan_pokok,5000,12
+supermie,bahan_pokok,12000,10
+sarimi,bahan_pokok,18000,42
+sarden,bahan_pokok,20000,49
+kornet,bahan_pokok,18000,19
+susu kental manis,bahan_pokok,16000,38
+mentega,bahan_pokok,5000,22
+margarin,bahan_pokok,27000,21
+beras ketan,bahan_pokok,29000,40
+oatmeal,bahan_pokok,6000,11
+beras rojo lele,bahan_pokok,16000,44
+beras rojolele,bahan_pokok,46000,32
+beras setra ramos,bahan_pokok,37000,26
+beras pulen,bahan_pokok,36000,35
+beras pera,bahan_pokok,65000,17
+beras organik,bahan_pokok,39000,38
+beras merah,bahan_pokok,72000,35
+beras hitam,bahan_pokok,36000,19
+beras 5kg,bahan_pokok,72000,35
+beras 10kg,bahan_pokok,72000,43
+gula putih,bahan_pokok,36000,50
+gula halus,bahan_pokok,63000,16
+gula batu,bahan_pokok,66000,13
+gula sachet,bahan_pokok,56000,20
+garam meja,bahan_pokok,8000,38
+garam dapur,bahan_pokok,8000,45
+garam beryodium,bahan_pokok,13000,34
+minyak sayur,bahan_pokok,74000,30
+minyak goreng 1l,bahan_pokok,51000,45
+minyak goreng 2l,bahan_pokok,47000,19
+minyak curah,bahan_pokok,22000,46
+telur negeri,bahan_pokok,67000,18
+telur kampung,bahan_pokok,74000,33
+telor ayam,bahan_pokok,16000,44
+tepung terigu segitiga,bahan_pokok,58000,44
+tepung terigu cakra,bahan_pokok,19000,45
+aci tapioka,bahan_pokok,11000,27
+tepung sagu,bahan_pokok,8000,48
+maizena,bahan_pokok,10000,41
+tepung ketan,bahan_pokok,17000,33
+mie instant,bahan_pokok,24000,32
+mie goreng instan,bahan_pokok,19000,41
+mie kuah instan,bahan_pokok,7000,46
+mi instan,bahan_pokok,27000,21
+bihun jagung,bahan_pokok,12000,22
+mie telur,bahan_pokok,66000,32
+makaroni,bahan_pokok,20000,34
+spageti,bahan_pokok,17000,44
+kecap bango,bahan_pokok,4000,50
+kecap abc,bahan_pokok,14000,39
+saus abc,bahan_pokok,12000,26
+saus indofood,bahan_pokok,5000,29
+saos sambal,bahan_pokok,3000,34
+saos tomat,bahan_pokok,28000,31
+sambal botol,bahan_pokok,5000,22
+terasi,bahan_pokok,27000,28
+penyedap rasa,bahan_pokok,9000,45
+royco ayam,bahan_pokok,25000,21
+masako sapi,bahan_pokok,27000,50
+kaldu jamur,bahan_pokok,13000,28
+lada bubuk,bahan_pokok,16000,21
+merica bubuk,bahan_pokok,25000,18
+ketumbar bubuk,bahan_pokok,5000,16
+kunyit bubuk,bahan_pokok,5000,37
+bawang merah kupas,bahan_pokok,19000,23
+bawang putih kupas,bahan_pokok,6000,40
+cabe merah,bahan_pokok,18000,28
+cabe rawit,bahan_pokok,10000,25
+cabai keriting,bahan_pokok,20000,14
+cabai hijau,bahan_pokok,29000,44
+tomat,bahan_pokok,12000,21
+kentang,bahan_pokok,17000,34
+wortel,bahan_pokok,25000,30
+kol,bahan_pokok,5000,45
+sawi,bahan_pokok,20000,32
+bayam,bahan_pokok,11000,25
+kangkung,bahan_pokok,9000,48
+kacang panjang,bahan_pokok,26000,48
+tauge,bahan_pokok,27000,23
+tahu putih,bahan_pokok,7000,40
+tahu kuning,bahan_pokok,16000,14
+tempe,bahan_pokok,20000,44
+santan kara,bahan_pokok,23000,32
+santan instan,bahan_pokok,9000,38
+kelapa parut,bahan_pokok,26000,20
+ikan asin,bahan_pokok,29000,27
+ikan teri,bahan_pokok,18000,21
+ayam potong,bahan_pokok,9000,18
+daging ayam,bahan_pokok,19000,19
+bakso frozen,bahan_pokok,21000,26
+sosis frozen,bahan_pokok,18000,47
+beras topi koki,bahan_pokok,66000,16
+beras sania,bahan_pokok,19000,22
+beras raja lele,bahan_pokok,26000,49
+beras cianjur,bahan_pokok,30000,18
+beras literan,bahan_pokok,40000,36
+beras karung,bahan_pokok,40000,11
+beras premium 5kg,bahan_pokok,62000,14
+beras premium 10kg,bahan_pokok,35000,38
+beras medium 5kg,bahan_pokok,53000,46
+beras medium 10kg,bahan_pokok,50000,47
+gula rose brand,bahan_pokok,47000,28
+gula gulaku,bahan_pokok,44000,17
+gula pasir 1kg,bahan_pokok,51000,10
+gula pasir 500g,bahan_pokok,37000,31
+gula merah batok,bahan_pokok,72000,26
+gula jawa,bahan_pokok,24000,16
+gula aren cair,bahan_pokok,68000,34
+garam refina,bahan_pokok,7000,13
+garam kapal,bahan_pokok,6000,45
+garam bata,bahan_pokok,4000,15
+minyak sania,bahan_pokok,66000,40
+minyak barco,bahan_pokok,45000,28
+minyak rose brand,bahan_pokok,24000,48
+minyak kelapa,bahan_pokok,72000,36
+minyak sawit,bahan_pokok,33000,19
+telur puyuh,bahan_pokok,72000,35
+telur asin,bahan_pokok,46000,28
+telur omega,bahan_pokok,15000,48
+tepung segitiga biru,bahan_pokok,28000,12
+tepung cakra kembar,bahan_pokok,9000,22
+tepung kunci biru,bahan_pokok,17000,37
+tepung roti,bahan_pokok,8000,29
+tepung panir,bahan_pokok,20000,37
+tepung bumbu,bahan_pokok,28000,17
+tusuk sate,kebutuhan_rumah_tangga,20000,50
+pewangi laundry,kebutuhan_rumah_tangga,6000,48
+piring kertas,kebutuhan_rumah_tangga,21000,10
+shampoo bayi,kebutuhan_rumah_tangga,26000,12
+kertas minyak,kebutuhan_rumah_tangga,24000,22
+plastik kiloan,kebutuhan_rumah_tangga,16000,37
+saringan,kebutuhan_rumah_tangga,22000,34
+sedotan,kebutuhan_rumah_tangga,7000,42
+sendok plastik,kebutuhan_rumah_tangga,5000,47
+gelas plastik,kebutuhan_rumah_tangga,5000,15
+garpu plastik,kebutuhan_rumah_tangga,23000,41
+sabun bayi,kebutuhan_rumah_tangga,14000,30
+toples,kebutuhan_rumah_tangga,9000,25
+sarung tangan plastik,kebutuhan_rumah_tangga,16000,30
+kertas nasi,kebutuhan_rumah_tangga,7000,20
+wadah makanan,kebutuhan_rumah_tangga,5000,46
+plastik es,kebutuhan_rumah_tangga,5000,45
+sabun colek,kebutuhan_rumah_tangga,11000,44
+corong,kebutuhan_rumah_tangga,14000,28
+sabun,kebutuhan_rumah_tangga,14000,29
+sabun mandi,kebutuhan_rumah_tangga,5000,27
+sabun cair,kebutuhan_rumah_tangga,6000,50
+lifebuoy,kebutuhan_rumah_tangga,5000,23
+lux,kebutuhan_rumah_tangga,7000,24
+dove,kebutuhan_rumah_tangga,21000,40
+biore,kebutuhan_rumah_tangga,12000,10
+shampo,kebutuhan_rumah_tangga,14000,12
+sampo,kebutuhan_rumah_tangga,6000,25
+sunsilk,kebutuhan_rumah_tangga,23000,32
+pantene,kebutuhan_rumah_tangga,23000,20
+clear,kebutuhan_rumah_tangga,11000,21
+head shoulders,kebutuhan_rumah_tangga,8000,19
+rejoice,kebutuhan_rumah_tangga,22000,41
+detergen,kebutuhan_rumah_tangga,17000,25
+rinso,kebutuhan_rumah_tangga,25000,17
+so klin,kebutuhan_rumah_tangga,8000,47
+attack,kebutuhan_rumah_tangga,8000,21
+molto,kebutuhan_rumah_tangga,14000,33
+pewangi pakaian,kebutuhan_rumah_tangga,9000,37
+sabun cuci piring,kebutuhan_rumah_tangga,12000,17
+sunlight,kebutuhan_rumah_tangga,11000,37
+mama lemon,kebutuhan_rumah_tangga,7000,45
+pasta gigi,kebutuhan_rumah_tangga,21000,35
+pepsodent,kebutuhan_rumah_tangga,6000,17
+close up,kebutuhan_rumah_tangga,20000,37
+sensodyne,kebutuhan_rumah_tangga,8000,37
+sikat gigi,kebutuhan_rumah_tangga,5000,46
+tisu,kebutuhan_rumah_tangga,21000,50
+tissue,kebutuhan_rumah_tangga,11000,45
+tisu gulung,kebutuhan_rumah_tangga,9000,36
+pembalut,kebutuhan_rumah_tangga,16000,26
+popok,kebutuhan_rumah_tangga,21000,18
+baygon,kebutuhan_rumah_tangga,21000,42
+hit,kebutuhan_rumah_tangga,27000,29
+karbol,kebutuhan_rumah_tangga,7000,22
+wipol,kebutuhan_rumah_tangga,13000,37
+supersol,kebutuhan_rumah_tangga,21000,38
+pembersih lantai,kebutuhan_rumah_tangga,36000,22
+pembersih kaca,kebutuhan_rumah_tangga,49000,44
+sapu,kebutuhan_rumah_tangga,39000,15
+pel,kebutuhan_rumah_tangga,35000,27
+ember,kebutuhan_rumah_tangga,44000,14
+kantong plastik,kebutuhan_rumah_tangga,17000,34
+plastik sampah,kebutuhan_rumah_tangga,23000,11
+pengharum ruangan,kebutuhan_rumah_tangga,21000,19
+kapur barus,kebutuhan_rumah_tangga,8000,39
+sabun batang,kebutuhan_rumah_tangga,12000,14
+sabun cair refill,kebutuhan_rumah_tangga,6000,42
+sabun antiseptik,kebutuhan_rumah_tangga,12000,10
+lifebuoy cair,kebutuhan_rumah_tangga,10000,27
+lifebuoy refill,kebutuhan_rumah_tangga,7000,41
+biore body foam,kebutuhan_rumah_tangga,23000,20
+nuvo sabun,kebutuhan_rumah_tangga,13000,30
+detol sabun,kebutuhan_rumah_tangga,8000,35
+shampoo sachet,kebutuhan_rumah_tangga,19000,34
+shampoo botol,kebutuhan_rumah_tangga,17000,31
+sampo sachet,kebutuhan_rumah_tangga,16000,36
+sampo botol,kebutuhan_rumah_tangga,24000,22
+conditioner,kebutuhan_rumah_tangga,8000,42
+pepsodent pasta gigi,kebutuhan_rumah_tangga,8000,43
+odol,kebutuhan_rumah_tangga,20000,50
+sikat gigi anak,kebutuhan_rumah_tangga,12000,44
+sikat gigi dewasa,kebutuhan_rumah_tangga,10000,10
+mouthwash,kebutuhan_rumah_tangga,17000,30
+listerine,kebutuhan_rumah_tangga,14000,15
+detergen bubuk,kebutuhan_rumah_tangga,11000,37
+detergen cair,kebutuhan_rumah_tangga,18000,26
+rinso bubuk,kebutuhan_rumah_tangga,29000,14
+rinso cair,kebutuhan_rumah_tangga,24000,40
+daia,kebutuhan_rumah_tangga,19000,14
+boom detergen,kebutuhan_rumah_tangga,7000,47
+so klin liquid,kebutuhan_rumah_tangga,15000,12
+attack easy,kebutuhan_rumah_tangga,15000,32
+molto pewangi,kebutuhan_rumah_tangga,22000,46
+downy,kebutuhan_rumah_tangga,19000,46
+softener pakaian,kebutuhan_rumah_tangga,16000,19
+pemutih pakaian,kebutuhan_rumah_tangga,13000,19
+bayclin,kebutuhan_rumah_tangga,14000,28
+sunlight jeruk,kebutuhan_rumah_tangga,13000,26
+sunlight refill,kebutuhan_rumah_tangga,4000,30
+mama lemon refill,kebutuhan_rumah_tangga,10000,23
+giv sabun,kebutuhan_rumah_tangga,10000,18
+sabun pencuci piring,kebutuhan_rumah_tangga,11000,10
+sponge cuci piring,kebutuhan_rumah_tangga,14000,22
+spons cuci piring,kebutuhan_rumah_tangga,13000,13
+scotch brite,kebutuhan_rumah_tangga,22000,10
+serabut cuci,kebutuhan_rumah_tangga,6000,49
+tisu wajah,kebutuhan_rumah_tangga,9000,41
+tisu makan,kebutuhan_rumah_tangga,9000,43
+tisu basah,kebutuhan_rumah_tangga,10000,37
+wet tissue,kebutuhan_rumah_tangga,23000,40
+toilet tissue,kebutuhan_rumah_tangga,12000,17
+pembalut wanita,kebutuhan_rumah_tangga,20000,48
+softex,kebutuhan_rumah_tangga,17000,35
+charm,kebutuhan_rumah_tangga,5000,43
+laurier,kebutuhan_rumah_tangga,24000,12
+popok bayi,kebutuhan_rumah_tangga,21000,21
+pampers,kebutuhan_rumah_tangga,11000,10
+mamy poko,kebutuhan_rumah_tangga,17000,14
+sweety,kebutuhan_rumah_tangga,8000,39
+baygon aerosol,kebutuhan_rumah_tangga,18000,39
+baygon elektrik,kebutuhan_rumah_tangga,20000,26
+hit aerosol,kebutuhan_rumah_tangga,26000,32
+hit elektrik,kebutuhan_rumah_tangga,29000,24
+obat nyamuk,kebutuhan_rumah_tangga,23000,46
+obat nyamuk bakar,kebutuhan_rumah_tangga,16000,30
+vape elektrik,kebutuhan_rumah_tangga,11000,23
+karbol wangi,kebutuhan_rumah_tangga,14000,11
+wipol karbol,kebutuhan_rumah_tangga,23000,20
+super pell,kebutuhan_rumah_tangga,26000,48
+vixal,kebutuhan_rumah_tangga,7000,47
+porstex,kebutuhan_rumah_tangga,27000,43
+pembersih toilet,kebutuhan_rumah_tangga,32000,47
+pembersih kamar mandi,kebutuhan_rumah_tangga,37000,43
+pembersih kompor,kebutuhan_rumah_tangga,47000,27
+pembersih noda,kebutuhan_rumah_tangga,49000,39
+cling pembersih kaca,kebutuhan_rumah_tangga,45000,24
+kanebo,kebutuhan_rumah_tangga,24000,36
+lap pel,kebutuhan_rumah_tangga,47000,43
+sapu lidi,kebutuhan_rumah_tangga,27000,47
+sapu ijuk,kebutuhan_rumah_tangga,48000,42
+alat pel,kebutuhan_rumah_tangga,28000,33
+ember plastik,kebutuhan_rumah_tangga,26000,24
+gayung,kebutuhan_rumah_tangga,5000,39
+sikat lantai,kebutuhan_rumah_tangga,6000,26
+sikat wc,kebutuhan_rumah_tangga,12000,14
+trash bag,kebutuhan_rumah_tangga,21000,38
+plastik kresek,kebutuhan_rumah_tangga,5000,13
+plastik bening,kebutuhan_rumah_tangga,10000,19
+tusuk gigi,kebutuhan_rumah_tangga,10000,26
+korek api,kebutuhan_rumah_tangga,16000,19
+lilin,kebutuhan_rumah_tangga,17000,26
+baterai aa,kebutuhan_rumah_tangga,17000,29
+baterai aaa,kebutuhan_rumah_tangga,19000,33
+kapas,kebutuhan_rumah_tangga,20000,14
+cotton bud,kebutuhan_rumah_tangga,15000,43
+tisu dapur,kebutuhan_rumah_tangga,9000,15
+tisu magic,kebutuhan_rumah_tangga,8000,11
+tisu bayi,kebutuhan_rumah_tangga,7000,22
+kapas wajah,kebutuhan_rumah_tangga,23000,20
+kapas bulat,kebutuhan_rumah_tangga,24000,32
+cotton buds bayi,kebutuhan_rumah_tangga,22000,25
+deodorant,kebutuhan_rumah_tangga,19000,40
+rexona,kebutuhan_rumah_tangga,13000,20
+nivea deodorant,kebutuhan_rumah_tangga,21000,25
+body lotion,kebutuhan_rumah_tangga,18000,17
+hand body,kebutuhan_rumah_tangga,19000,13
+vaseline lotion,kebutuhan_rumah_tangga,5000,49
+hand sanitizer,kebutuhan_rumah_tangga,7000,13
+antis hand sanitizer,kebutuhan_rumah_tangga,20000,34
+masker medis,kebutuhan_rumah_tangga,15000,12
+sarung tangan,kebutuhan_rumah_tangga,16000,41
+sarung tangan karet,kebutuhan_rumah_tangga,14000,12
+sabun cuci tangan,kebutuhan_rumah_tangga,11000,36
+hand soap,kebutuhan_rumah_tangga,10000,38
+nuvo hand soap,kebutuhan_rumah_tangga,11000,41
+dettol handwash,kebutuhan_rumah_tangga,12000,28
+keset,kebutuhan_rumah_tangga,8000,30
+keset kamar mandi,kebutuhan_rumah_tangga,12000,14
+gantungan baju,kebutuhan_rumah_tangga,22000,27
+hanger,kebutuhan_rumah_tangga,9000,37
+jepitan baju,kebutuhan_rumah_tangga,13000,31
+tali jemuran,kebutuhan_rumah_tangga,8000,30
+keranjang pakaian,kebutuhan_rumah_tangga,21000,15
+keranjang sampah,kebutuhan_rumah_tangga,13000,10
+tempat sampah,kebutuhan_rumah_tangga,5000,14
+pengki,kebutuhan_rumah_tangga,24000,50

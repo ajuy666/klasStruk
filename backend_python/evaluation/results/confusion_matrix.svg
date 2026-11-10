@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="574" height="554" viewBox="0 0 574 554">
+<style>
+text{font-family:Arial,Helvetica,sans-serif;fill:#0f172a}
+.title{font-size:24px;font-weight:800}
+.subtitle{font-size:13px;fill:#64748b}
+.axis{font-size:14px;font-weight:700;fill:#334155}
+.label{font-size:12px;font-weight:700;fill:#334155}
+.value{font-size:20px;font-weight:800}
+.small{font-size:11px;fill:#64748b}
+</style>
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<text x="190" y="42" class="title">Confusion Matrix LSTM</text>
+<text x="190" y="66" class="subtitle">Aktual di sisi kiri, prediksi di bagian atas</text>
+<text x="362.0" y="106" text-anchor="middle" class="axis">Prediksi</text>
+<text x="34" y="322.0" text-anchor="middle" class="axis" transform="rotate(-90 34 322.0)">Aktual</text>
+<text x="233.0" y="94" text-anchor="middle" class="label">bahan pokok</text>
+<text x="172" y="193.0" text-anchor="end" class="label">bahan pokok</text>
+<text x="319.0" y="87" text-anchor="middle" class="label">kebutuhan rumah</text>
+<text x="319.0" y="101" text-anchor="middle" class="label">tangga</text>
+<text x="172" y="272.0" text-anchor="end" class="label">kebutuhan rumah</text>
+<text x="172" y="286.0" text-anchor="end" class="label">tangga</text>
+<text x="405.0" y="94" text-anchor="middle" class="label">makanan</text>
+<text x="172" y="365.0" text-anchor="end" class="label">makanan</text>
+<text x="491.0" y="94" text-anchor="middle" class="label">minuman</text>
+<text x="172" y="451.0" text-anchor="end" class="label">minuman</text>
+<rect x="190" y="150" width="86" height="86" rx="10" fill="rgb(65,176,137)" stroke="#ffffff" stroke-width="3"/>
+<text x="233.0" y="194" text-anchor="middle" class="value" fill="#ffffff">32</text>
+<text x="233.0" y="213" text-anchor="middle" class="small" fill="#ffffff">data</text>
+<rect x="276" y="150" width="86" height="86" rx="10" fill="rgb(234,248,242)" stroke="#ffffff" stroke-width="3"/>
+<text x="319.0" y="194" text-anchor="middle" class="value" fill="#0f172a">1</text>
+<text x="319.0" y="213" text-anchor="middle" class="small" fill="#0f172a">data</text>
+<rect x="362" y="150" width="86" height="86" rx="10" fill="rgb(212,239,229)" stroke="#ffffff" stroke-width="3"/>
+<text x="405.0" y="194" text-anchor="middle" class="value" fill="#0f172a">5</text>
+<text x="405.0" y="213" text-anchor="middle" class="small" fill="#0f172a">data</text>
+<rect x="448" y="150" width="86" height="86" rx="10" fill="rgb(239,250,245)" stroke="#ffffff" stroke-width="3"/>
+<text x="491.0" y="194" text-anchor="middle" class="value" fill="#0f172a">0</text>
+<text x="491.0" y="213" text-anchor="middle" class="small" fill="#0f172a">data</text>
+<rect x="190" y="236" width="86" height="86" rx="10" fill="rgb(239,250,245)" stroke="#ffffff" stroke-width="3"/>
+<text x="233.0" y="280" text-anchor="middle" class="value" fill="#0f172a">0</text>
+<text x="233.0" y="299" text-anchor="middle" class="small" fill="#0f172a">data</text>
+<rect x="276" y="236" width="86" height="86" rx="10" fill="rgb(37,164,120)" stroke="#ffffff" stroke-width="3"/>
+<text x="319.0" y="280" text-anchor="middle" class="value" fill="#ffffff">37</text>
+<text x="319.0" y="299" text-anchor="middle" class="small" fill="#ffffff">data</text>
+<rect x="362" y="236" width="86" height="86" rx="10" fill="rgb(239,250,245)" stroke="#ffffff" stroke-width="3"/>
+<text x="405.0" y="280" text-anchor="middle" class="value" fill="#0f172a">0</text>
+<text x="405.0" y="299" text-anchor="middle" class="small" fill="#0f172a">data</text>
+<rect x="448" y="236" width="86" height="86" rx="10" fill="rgb(239,250,245)" stroke="#ffffff" stroke-width="3"/>
+<text x="491.0" y="280" text-anchor="middle" class="value" fill="#0f172a">0</text>
+<text x="491.0" y="299" text-anchor="middle" class="small" fill="#0f172a">data</text>
+<rect x="190" y="322" width="86" height="86" rx="10" fill="rgb(207,237,225)" stroke="#ffffff" stroke-width="3"/>
+<text x="233.0" y="366" text-anchor="middle" class="value" fill="#0f172a">6</text>
+<text x="233.0" y="385" text-anchor="middle" class="small" fill="#0f172a">data</text>
+<rect x="276" y="322" width="86" height="86" rx="10" fill="rgb(218,241,232)" stroke="#ffffff" stroke-width="3"/>
+<text x="319.0" y="366" text-anchor="middle" class="value" fill="#0f172a">4</text>
+<text x="319.0" y="385" text-anchor="middle" class="small" fill="#0f172a">data</text>
+<rect x="362" y="322" width="86" height="86" rx="10" fill="rgb(81,183,148)" stroke="#ffffff" stroke-width="3"/>
+<text x="405.0" y="366" text-anchor="middle" class="value" fill="#ffffff">29</text>
+<text x="405.0" y="385" text-anchor="middle" class="small" fill="#ffffff">data</text>
+<rect x="448" y="322" width="86" height="86" rx="10" fill="rgb(239,250,245)" stroke="#ffffff" stroke-width="3"/>
+<text x="491.0" y="366" text-anchor="middle" class="value" fill="#0f172a">0</text>
+<text x="491.0" y="385" text-anchor="middle" class="small" fill="#0f172a">data</text>
+<rect x="190" y="408" width="86" height="86" rx="10" fill="rgb(239,250,245)" stroke="#ffffff" stroke-width="3"/>
+<text x="233.0" y="452" text-anchor="middle" class="value" fill="#0f172a">0</text>
+<text x="233.0" y="471" text-anchor="middle" class="small" fill="#0f172a">data</text>
+<rect x="276" y="408" width="86" height="86" rx="10" fill="rgb(234,248,242)" stroke="#ffffff" stroke-width="3"/>
+<text x="319.0" y="452" text-anchor="middle" class="value" fill="#0f172a">1</text>
+<text x="319.0" y="471" text-anchor="middle" class="small" fill="#0f172a">data</text>
+<rect x="362" y="408" width="86" height="86" rx="10" fill="rgb(234,248,242)" stroke="#ffffff" stroke-width="3"/>
+<text x="405.0" y="452" text-anchor="middle" class="value" fill="#0f172a">1</text>
+<text x="405.0" y="471" text-anchor="middle" class="small" fill="#0f172a">data</text>
+<rect x="448" y="408" width="86" height="86" rx="10" fill="rgb(43,167,124)" stroke="#ffffff" stroke-width="3"/>
+<text x="491.0" y="452" text-anchor="middle" class="value" fill="#ffffff">36</text>
+<text x="491.0" y="471" text-anchor="middle" class="small" fill="#ffffff">data</text>
+</svg>

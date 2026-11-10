@@ -1,0 +1,153 @@
+text,actual_category,predicted_category,is_correct
+baygon,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+keripik kentang balado,makanan,makanan,True
+chocolatos matcha drink,minuman,minuman,True
+indomilk kotak,minuman,minuman,True
+permen jelly,makanan,makanan,True
+luwak white koffie,minuman,minuman,True
+tepung ketan,bahan_pokok,bahan_pokok,True
+ikan teri,bahan_pokok,makanan,False
+minyak goreng l,bahan_pokok,bahan_pokok,True
+detergen cair,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+biskuit marie,makanan,makanan,True
+kuaci,makanan,kebutuhan_rumah_tangga,False
+garam meja,bahan_pokok,bahan_pokok,True
+biskuit kelapa,makanan,makanan,True
+jahe,bahan_pokok,kebutuhan_rumah_tangga,False
+lifebuoy cair,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+teh gelas cup,minuman,minuman,True
+risoles,makanan,kebutuhan_rumah_tangga,False
+molto,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+beras raja lele,bahan_pokok,bahan_pokok,True
+mama lemon refill,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+popcorn asin,makanan,makanan,True
+sabun bayi,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+nutrisari jeruk peras,minuman,minuman,True
+astor wafer stick,makanan,makanan,True
+bihun jagung,bahan_pokok,bahan_pokok,True
+garam dapur,bahan_pokok,bahan_pokok,True
+susu coklat,minuman,minuman,True
+sosis ayam,makanan,makanan,True
+bakso sapi frozen,makanan,makanan,True
+saos tomat,bahan_pokok,bahan_pokok,True
+coca cola kaleng,minuman,minuman,True
+kacang atom,makanan,makanan,True
+indomie rebus,makanan,makanan,True
+qtela tempe,makanan,makanan,True
+sirup cocopandan,minuman,minuman,True
+bear brand,minuman,makanan,False
+hand body,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+sikat lantai,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+kanzler singles keju,makanan,makanan,True
+hanger,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+fruit tea,minuman,minuman,True
+pewangi laundry,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+mi lidi,makanan,bahan_pokok,False
+le minerale,minuman,minuman,True
+tali jemuran,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+kentang,bahan_pokok,makanan,False
+daun salam,bahan_pokok,bahan_pokok,True
+kacang merah,bahan_pokok,bahan_pokok,True
+keset kamar mandi,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+chicken nugget,makanan,makanan,True
+vixal,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+teh javana botol,minuman,minuman,True
+buavita mangga,minuman,minuman,True
+obat nyamuk bakar,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+biskuit susu,makanan,makanan,True
+teh tawar,minuman,minuman,True
+aqua galon,minuman,minuman,True
+sabun cair refill,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+ale ale anggur,minuman,minuman,True
+marimas,minuman,minuman,True
+beras rojolele,bahan_pokok,bahan_pokok,True
+hit aerosol,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+bayclin,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+chitato ayam bumbu,makanan,makanan,True
+ultra milk full cream,minuman,minuman,True
+ichitan,minuman,kebutuhan_rumah_tangga,False
+pembalut wanita,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+sereal jagung,makanan,bahan_pokok,False
+masako sapi,bahan_pokok,makanan,False
+mi instan,bahan_pokok,bahan_pokok,True
+tempat sampah,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+frestea,minuman,minuman,True
+odol,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+hit elektrik,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+teh botol sosro ml,minuman,minuman,True
+beras ketan,bahan_pokok,bahan_pokok,True
+kecap manis,bahan_pokok,bahan_pokok,True
+floridina,minuman,minuman,True
+indomie,bahan_pokok,makanan,False
+susu stroberi,minuman,minuman,True
+oreo chocolate,makanan,makanan,True
+extra joss,minuman,minuman,True
+attack easy,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+pemutih pakaian,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+telur puyuh,bahan_pokok,bahan_pokok,True
+garam kapal,bahan_pokok,bahan_pokok,True
+lap pel,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+wipol karbol,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+daging ayam,bahan_pokok,makanan,False
+tepung bumbu,bahan_pokok,bahan_pokok,True
+teh manis,minuman,minuman,True
+sup krim instan,makanan,bahan_pokok,False
+fanta,minuman,minuman,True
+beras cianjur,bahan_pokok,bahan_pokok,True
+buavita jeruk,minuman,minuman,True
+opak singkong,makanan,bahan_pokok,False
+permen mint,makanan,makanan,True
+milk tea,minuman,minuman,True
+kacang garuda,makanan,makanan,True
+cireng,makanan,kebutuhan_rumah_tangga,False
+susu full cream,minuman,minuman,True
+pewangi pakaian,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+sabun antiseptik,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+kecap asin,bahan_pokok,bahan_pokok,True
+fruit tea botol,minuman,minuman,True
+chitato,makanan,makanan,True
+beras premium kg,bahan_pokok,bahan_pokok,True
+ketumbar,bahan_pokok,bahan_pokok,True
+foxs candy,makanan,makanan,True
+makaroni pedas,makanan,bahan_pokok,False
+nutrisari jeruk,minuman,minuman,True
+cabai rawit,bahan_pokok,bahan_pokok,True
+nescafe ready to drink,minuman,minuman,True
+super pell,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+cabai merah,bahan_pokok,bahan_pokok,True
+merica,bahan_pokok,bahan_pokok,True
+beras pandan wangi,bahan_pokok,bahan_pokok,True
+milo sachet,minuman,minuman,True
+susu putih,minuman,minuman,True
+pocky coklat,makanan,makanan,True
+kue lapis,makanan,makanan,True
+aci tapioka,bahan_pokok,bahan_pokok,True
+trash bag,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+telur omega,bahan_pokok,bahan_pokok,True
+teh tarik,minuman,minuman,True
+nugget tempura,makanan,makanan,True
+pop mi baso,makanan,makanan,True
+mi instant,bahan_pokok,bahan_pokok,True
+energen coklat sachet,minuman,minuman,True
+misro,makanan,kebutuhan_rumah_tangga,False
+tepung kunci biru,bahan_pokok,bahan_pokok,True
+roti manis,makanan,makanan,True
+pop mi pedas dower ayam,makanan,makanan,True
+hit,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+sirup abc,minuman,minuman,True
+laurier,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+kapas wajah,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+hand soap,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+popok,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+telur bebek,bahan_pokok,bahan_pokok,True
+lux,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+gayung,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True
+snack,makanan,makanan,True
+minyak kelapa,bahan_pokok,bahan_pokok,True
+beras premium,bahan_pokok,bahan_pokok,True
+wafer vanilla,makanan,makanan,True
+kornet sapi kaleng,makanan,bahan_pokok,False
+richeese wafer,makanan,makanan,True
+nutrisari mangga,minuman,minuman,True
+daun jeruk,bahan_pokok,bahan_pokok,True
+piring kertas,kebutuhan_rumah_tangga,kebutuhan_rumah_tangga,True

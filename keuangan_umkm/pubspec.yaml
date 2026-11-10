@@ -1,0 +1,41 @@
+name: keuangan_umkm
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  supabase_flutter: ^2.12.4
+  image_picker: ^1.2.1
+  camera: ^0.10.6
+  google_mlkit_text_recognition: ^0.13.0
+  image: ^4.1.7
+  http: ^1.2.1
+  flutter_local_notifications: ^19.5.0
+  shared_preferences: ^2.5.3
+  pdf: ^3.11.3
+  printing: ^5.14.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo_smartstok.png.jpeg"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo_smartstok.png.jpeg

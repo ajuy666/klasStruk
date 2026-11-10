@@ -1,0 +1,23 @@
+﻿# Secrets and local configuration
+.env
+.env.*
+!.env.example
+**/*.pem
+**/*.key
+**/*.p12
+**/*.jks
+**/*.keystore
+
+# Local environments and generated output
+**/.venv/
+**/venv/
+**/__pycache__/
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/coverage/
+
+# Local package and duplicate staging artifacts
+SmartStok_Pancanitis_Source_Code.zip
+_SmartStok_Source_Staging/

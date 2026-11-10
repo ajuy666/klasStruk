@@ -1,0 +1,109 @@
+@startuml
+title Class Diagram Keuangan UMKM
+
+left to right direction
+skinparam classAttributeIconSize 0
+skinparam shadowing false
+skinparam linetype polyline
+skinparam nodesep 55
+skinparam ranksep 45
+
+' Class disederhanakan untuk diagram konseptual.
+' Method dibuat sederhana agar mudah dibaca dan mewakili fitur pada kode Flutter.
+
+class User {
+  - idUser: UUID
+  - namaLengkap: String
+  - email: String
+  - namaUsaha: String
+  - jenisUsaha: String?
+  - alamat: String?
+  - noTelepon: String?
+  - fotoProfil: String?
+  --
+  + daftarUser(): void
+  + masuk(): void
+  + lupaPassword(): void
+  + ambilProfil(): void
+  + perbaruiProfil(): void
+  + unggahFotoProfil(): void
+}
+
+class Struk {
+  - idStruk: UUID
+  - idUser: UUID
+  - gambarStruk: String
+  - namaMerchant: String?
+  - tanggalStruk: DateTime
+  - total: double
+  - teksOcr: String?
+  - metodeEkstraksi: String
+  - status: String
+  --
+  + pindaiStruk(): void
+  + tambahStruk(): void
+  + tampilkanStruk(): void
+}
+
+class DetailStruk {
+  - idDetail: UUID
+  - idStruk: UUID
+  - namaItem: String
+  - jumlah: double
+  - satuan: String?
+  - hargaSatuan: double
+  - subtotal: double
+  - kategoriPrediksi: String?
+  - confidence: double?
+  --
+  + tambahDetail(): void
+  + tampilkanDetail(): void
+}
+
+class Transaksi {
+  - idTransaksi: UUID
+  - idUser: UUID
+  - idStruk: UUID?
+  - judul: String
+  - deskripsi: String?
+  - jumlah: double
+  - tanggalTransaksi: DateTime
+  - jenisTransaksi: String
+  - sumberInput: String
+  --
+  + tampilkanTransaksi(): void
+  + tampilkanTransaksiTerbaru(): void
+  + hitungTotalPengeluaran(): void
+  + tampilkanDetailTransaksi(): void
+  + tampilkanAnalisis(): void
+}
+
+class Inventori {
+  - idProduk: UUID
+  - idUser: UUID
+  - namaProduk: String
+  - kategori: String
+  - satuan: String?
+  - stokSaatIni: double
+  - stokMinimum: double
+  - hargaTerakhir: double
+  --
+  + tampilkanProduk(): void
+  + tambahStok(): void
+  + perbaruiProduk(): void
+  + hapusProduk(): void
+}
+
+User "1" -- "0..*" Struk : mengunggah
+User "1" -- "0..*" Transaksi : memiliki
+User "1" -- "0..*" Inventori : mengelola
+Struk "1" -- "0..*" DetailStruk : terdiri dari
+Struk "0..1" -- "0..*" Transaksi : sumber transaksi
+DetailStruk ..> Inventori : stok masuk
+
+note bottom of Inventori
+  Method ini mewakili fitur
+  InventoryService pada aplikasi.
+end note
+
+@enduml

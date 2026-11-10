@@ -1,0 +1,21 @@
+{
+  "dataset_path": "D:\\flutter_project\\backend_python\\data\\dataset_300.csv",
+  "dataset_size": 758,
+  "train_size": 606,
+  "test_size": 152,
+  "test_split_percent": 20,
+  "random_state": 42,
+  "accuracy": 0.881578947368421,
+  "accuracy_percent": 88.16,
+  "precision_macro": 0.8827854520020982,
+  "precision_macro_percent": 88.28,
+  "recall_macro": 0.8832658569500674,
+  "recall_macro_percent": 88.33,
+  "f1_macro": 0.8809655049786629,
+  "f1_macro_percent": 88.1,
+  "f1_weighted": 0.8800364509246088,
+  "f1_weighted_percent": 88.0,
+  "training_time_seconds": 10.640534,
+  "prediction_time_seconds": 0.57746,
+  "avg_prediction_time_ms": 3.799081
+}
