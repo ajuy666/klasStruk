@@ -1,0 +1,4 @@
+﻿# Python backend dependency entry point
+-r backend_python/requirements.txt
+
+# Flutter dependencies are managed in keuangan_umkm/pubspec.yaml.
